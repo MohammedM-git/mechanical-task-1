@@ -2,5 +2,5 @@ a robotic arm with multiple joints mounted on a flat, grid-marked base. The arm 
 
 
 
-![image alt]([https://github.com/MohammedM-git/software-task-1/blob/main/iMDyoM49VX.png?raw=true](https://github.com/MohammedM-git/images/blob/main/iMDyoM49VX.png?raw=true))
+![image alt](https://github.com/MohammedM-git/images/blob/main/iMDyoM49VX.png?raw=true)
 
